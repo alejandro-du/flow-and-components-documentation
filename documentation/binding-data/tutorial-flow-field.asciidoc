@@ -4,7 +4,7 @@ order: 6
 layout: page
 ---
 
-= Creating a Component That Has a Value
+= Creating a Component That has a Value
 
 To work with `Binder`, a component must implement the `HasValue` interface. 
 
